@@ -1,0 +1,6 @@
+[submodule "text-processor-service"]
+	path = text-processor-service
+	url = https://github.com/raphaelsegalla/algaposts-text-processor-service.git
+[submodule "post-service"]
+	path = post-service
+	url = https://github.com/raphaelsegalla/algaposts-post-service.git
